@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Contact me on
-email: mdomorffaruk@gmail.com
-website: 
+- email: mdomorffaruk@gmail.com
+- website: 
