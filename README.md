@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Contact me on
 - email: mdomorffaruk@gmail.com
-- website: https://mdomorffaruk.github.io
+- website: https://mdomorffaruk.github.io/portfolio
