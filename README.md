@@ -8,7 +8,7 @@
 * Red Team Assessments
 * Social Engineering Assessments
 * Vulnerability Management
-* Security Awareness Training
+* Black box testing
 * Full-Stack Development (for securing applications)
 
 **Contact:**
