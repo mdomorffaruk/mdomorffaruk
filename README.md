@@ -29,4 +29,3 @@ I am a security-focused engineer with over 5 years of professional experience bu
 - 🌍 **Availability:** Fully equipped for high-performance remote collaboration.
 - 📝 **Contact:** [mdomorffaruk@gmail.com](mailto:mdomorffaruk@gmail.com)
 
----
