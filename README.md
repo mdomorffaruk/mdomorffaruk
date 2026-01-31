@@ -30,4 +30,3 @@ I am a security-focused engineer with over 5 years of professional experience bu
 - 📝 **Contact:** [mdomorffaruk@gmail.com](mailto:mdomorffaruk@gmail.com)
 
 ---
-*Note: Most of my professional work for banking and corporate clients is held in private repositories due to security and NDAs.*
