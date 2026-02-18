@@ -3,7 +3,7 @@
 
 💻 [GitHub](https://github.com/mdomorffaruk) • 🌐 [Portfolio](https://mdomorffaruk.github.io) • 📫 [mdomorffaruk@gmail.com](mailto:mdomorffaruk@gmail.com)
 
-I am a security-focused engineer with over 5 years of professional experience building and securing high-stakes production systems. Currently, I am specializing in **Smart Contract Auditing** and identifying vulnerabilities in decentralized ecosystems.
+I am a security-focused engineer with over 6 years of professional experience building and securing high-stakes production systems. Currently, I am specializing in **Smart Contract Auditing** and identifying vulnerabilities in decentralized ecosystems.
 
 ---
 
