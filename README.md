@@ -3,37 +3,63 @@
 Junior Application Security / Penetration Tester  
 Bogura, Bangladesh
 
-Security-focused engineer with a background in software development and cybersecurity research.  
-Experienced in web application testing, attack surface analysis, and security tooling development.
+Security-focused engineer with a background in full-stack development and offensive security research.  
+Focused on web application testing, attack surface analysis, and vulnerability research.
 
-## Skills
+---
 
-- Web Application Testing
-- Vulnerability Assessment
-- Authentication & Access Control Testing
-- Attack Surface Mapping
-- Reconnaissance & Enumeration
+## Offensive Security Focus
 
-## Tools
+• Web Application Penetration Testing  
+• Bug Bounty Methodology  
+• Reconnaissance Automation  
+• Vulnerability Research  
+• Reverse Engineering Basics  
 
-Burp Suite · Nmap · Httpx · Subfinder · Amass · Katana · Feroxbuster · Nuclei · Wireshark · Ghidra
+---
 
-## Projects
+## Featured Security Projects
 
 ### VulnXposer
-Web-based vulnerability scanning platform integrating OWASP ZAP and reconnaissance tooling for security assessment workflows.
+Security assessment web application integrating OWASP ZAP and DNS analysis.
 
-### Recon & Security Automation Tooling
-Custom automation scripts for asset discovery, port scanning, URL collection, and vulnerability triage.
+Repository  
+https://github.com/mdomorffaruk/vulnxposer
 
-### South-East Bank Alarm Management System
-Real-time monitoring system developed for banking infrastructure with secure backend APIs and automated alert workflows.
+---
 
-## Training
+### Bug Bounty Methodology
+Collection of recon workflows, vulnerability techniques, and research notes.
 
-- PWK / OSCP Coursework and Labs
-- Blue Team Junior Analyst – Security Blue Team
-- PortSwigger Web Security Academy
+Repository  
+https://github.com/mdomorffaruk/bug-bounty-methodology
+
+---
+
+### Recon Automation Toolkit
+Automation scripts for reconnaissance and attack surface discovery.
+Repository:
+Hackerone automation:
+https://github.com/mdomorffaruk/hackerone-automation/
+Recon automation:
+https://github.com/mdomorffaruk/recon-automation
+
+---
+
+## Tools & Technologies
+
+Burp Suite  
+Nmap  
+Nuclei  
+Subfinder  
+Amass  
+Httpx  
+Katana  
+Feroxbuster  
+
+Linux • Bash • Wireshark • Ghidra
+
+---
 
 ## Links
 
