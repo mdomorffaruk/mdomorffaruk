@@ -1,102 +1,44 @@
-# 👋 Hi, I'm Mohammad Omor Faruk
+# Mohammad Omor Faruk
 
-### Cybersecurity Analyst | Smart Contract Auditor | Security Engineer
+Junior Application Security / Penetration Tester  
+Bogura, Bangladesh
 
-💻 [GitHub](https://github.com/mdomorffaruk)
-🌐 [Portfolio](https://mdomorffaruk.github.io)
-📫 [mdomorffaruk@gmail.com](mailto:mdomorffaruk@gmail.com)
+Security-focused engineer with a background in software development and cybersecurity research.  
+Experienced in web application testing, attack surface analysis, and security tooling development.
 
----
+## Skills
 
-## 🔐 About Me
+- Web Application Testing
+- Vulnerability Assessment
+- Authentication & Access Control Testing
+- Attack Surface Mapping
+- Reconnaissance & Enumeration
 
-I am a security-focused engineer with 6+ years of experience building and defending production-grade systems in high-risk environments.
+## Tools
 
-My current specialization is **Blockchain Security and Smart Contract Auditing**, where I focus on:
+Burp Suite · Nmap · Httpx · Subfinder · Amass · Katana · Feroxbuster · Nuclei · Wireshark · Ghidra
 
-* Solidity vulnerability discovery
-* DeFi attack surface analysis
-* Exploit reproduction & proof-of-concept validation
-* Threat modeling for decentralized systems
+## Projects
 
-I approach security from both sides — as a builder and as an adversarial thinker.
+### VulnXposer
+Web-based vulnerability scanning platform integrating OWASP ZAP and reconnaissance tooling for security assessment workflows.
 
----
+### Recon & Security Automation Tooling
+Custom automation scripts for asset discovery, port scanning, URL collection, and vulnerability triage.
 
-## 🛡️ Security Expertise
+### South-East Bank Alarm Management System
+Real-time monitoring system developed for banking infrastructure with secure backend APIs and automated alert workflows.
 
-### Blockchain & Smart Contracts
+## Training
 
-* Smart Contract Auditing (Solidity)
-* Reentrancy & Logic Exploit Analysis
-* DeFi Attack Simulation
-* Gas Optimization & Security Tradeoffs
+- PWK / OSCP Coursework and Labs
+- Blue Team Junior Analyst – Security Blue Team
+- PortSwigger Web Security Academy
 
-### Offensive Security
+## Links
 
-* Web Application Penetration Testing
-* Android Security Testing
-* Authentication & Access Control Bypass
-* Sensitive Data Exposure Analysis
-* API Security Testing
-
-### Reverse Engineering & Forensics
-
-* Malware Analysis (Ghidra)
-* Network Traffic Analysis (Wireshark)
-* Incident Investigation
-
----
-
-## 🏆 Recognitions & Impact
-
-* **Digital Bangladesh Award 2022** – National recognition for engineering an AI-powered IoT safety system
-* **Robotech Olympiad 2023** – Awarded for embedded systems and automation innovation
-* Reduced operational workload by **70%** for South-East Bank through automation engineering
-* Delivered 24/7 monitoring systems in banking-grade environments
-
----
-
-## 🧠 Technical Stack
-
-### Security
-
-Burp Suite • Metasploit • OWASP ZAP • Wireshark • Ghidra
-
-### Programming
-
-JavaScript (Node.js, React) • Python • Go • PHP • Kotlin • Solidity
-
-### Infrastructure
-
-Docker • Kubernetes • AWS • Linux (Kali, Arch, Ubuntu)
-
----
-
-## 🚀 Current Focus
-
-* Auditing DeFi protocols
-* Studying real-world smart contract exploits
-* Building automated security analysis tooling
-* Researching blockchain attack patterns
-
----
-
-## 🌍 Professional Status
-
-* Cyber Security Analyst & Blockchain Researcher at ByteTech
-* Available for security research collaboration
-* Open to smart contract auditing engagements
-
----
-
-## ⚖️ Security Philosophy
-
-Security is not about running tools.
-
-It is about understanding how systems fail, modeling adversarial behavior, and communicating risk clearly.
-
-I build.
-I break.
-I secure.
-
+- Portfolio: https://mdomorffaruk.github.io
+- LinkedIn: https://linkedin.com/in/mdomorffaruk
+- TryHackme: https://tryhackme.com/p/mdomorffaruk
+- Medium: https://medium.com/@mdomorffaruk
+- Youtube: https://www.youtube.com/@mdomorffaruk
