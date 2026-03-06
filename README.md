@@ -38,9 +38,12 @@ https://github.com/mdomorffaruk/bug-bounty-methodology
 
 ### Recon Automation Toolkit
 Automation scripts for reconnaissance and attack surface discovery.
+
 Repository:
+
 Hackerone automation:
 https://github.com/mdomorffaruk/hackerone-automation/
+
 Recon automation:
 https://github.com/mdomorffaruk/recon-automation
 
