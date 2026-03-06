@@ -71,3 +71,4 @@ Linux • Bash • Wireshark • Ghidra
 - TryHackme: https://tryhackme.com/p/mdomorffaruk
 - Medium: https://medium.com/@mdomorffaruk
 - Youtube: https://www.youtube.com/@mdomorffaruk
+- Twitter: https://x.com/mdomorffaruk
